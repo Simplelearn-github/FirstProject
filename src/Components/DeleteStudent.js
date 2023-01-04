@@ -36,6 +36,7 @@ function DeleteStudent() {
             <th>Name</th>
             <th>Father Name</th>
             <th>phone</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
