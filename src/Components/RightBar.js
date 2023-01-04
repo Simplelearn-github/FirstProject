@@ -5,7 +5,7 @@ import DeleteStudent from './DeleteStudent'
 
 import Embeds from './Embeds'
 import GetStudents from './GetStudents'
-import Increase from './Increase'
+
 
 function RightBar() {
   return (
