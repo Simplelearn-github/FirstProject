@@ -1,0 +1,58 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "Name": "Naveen",
+      "FatherName": "Mogili",
+      "Phone": 8106069682
+    },
+    {
+      "id": "4",
+      "Name": "asd",
+      "FatherName": "zxcz",
+      "Phone": "zxc"
+    },
+    {
+      "id": "asdfg",
+      "Name": "cvbnm",
+      "FatherName": "dfghjm,",
+      "Phone": "fghjm"
+    },
+    {
+      "id": "Clf5-P1",
+      "Name": "",
+      "FatherName": "",
+      "Phone": ""
+    },
+    {
+      "id": "7",
+      "Name": "karthiok",
+      "FatherName": "fghj",
+      "Phone": "8563"
+    },
+    {
+      "id": "123",
+      "Name": "",
+      "FatherName": "",
+      "Phone": ""
+    },
+    {
+      "id": "OfUPoqG",
+      "Name": "",
+      "FatherName": "",
+      "Phone": ""
+    },
+    {
+      "id": "-xevIuJ",
+      "Name": "",
+      "FatherName": "",
+      "Phone": ""
+    },
+    {
+      "id": "hMDCEIk",
+      "Name": "",
+      "FatherName": "",
+      "Phone": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.Home ul li{
+    list-style-type: none;
+    padding-top: 30px;
+
+}
+.Home ul li a{
+    text-decoration: none;
+    text-decoration: solid;
+    color: black;
+}
+i:first-child{
+    color:red;
+}
+.Home {
+    height: 608px;
+  
+}
